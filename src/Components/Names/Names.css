@@ -6,9 +6,9 @@
  border-radius: 10px;
  box-shadow: 2px 2px 4px lightgray;
  margin:8px auto;
- justify-content: center;
+ justify-content: start;
  align-items: center;
-
+ padding: 4px;
 }
 .names-img img{
  width: 28px;

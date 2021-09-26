@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Employee Working In a Company
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://employee-details-12.netlify.app/).
+
+## Website Details
+Ⓘ The website  consist of  2 section where one section includes employee
+details of a company and other section inludes a cart. 
+ⒾEmployee details are displayed in cards where only relevant information are given.
+ⒾUsing cart , we can enlist employee to make a team, based on our need for any kinds of company project.
+
+<!-- # Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
 ## Available Scripts
 
