@@ -5,7 +5,9 @@ This project was created using react [Employee Details](https://employee-details
 ## Website Details
 Ⓘ The website  consist of  2 section where one section includes employee
 details of a company and other section inludes a cart. 
+<br>
 ⒾEmployee details are displayed in cards where only relevant information are given.
+<br>
 ⒾUsing cart , we can enlist employee to make a team, based on our need for any kinds of company project.
 
 <!-- # Getting Started with Create React App
