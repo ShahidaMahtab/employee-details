@@ -1,6 +1,6 @@
 # Employee Working In a Company
 
-This project was bootstrapped with [Create React App](https://employee-details-12.netlify.app/).
+This project was created using react [Employee Details](https://employee-details-12.netlify.app/).
 
 ## Website Details
 Ⓘ The website  consist of  2 section where one section includes employee
