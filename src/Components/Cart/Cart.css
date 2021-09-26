@@ -1,0 +1,20 @@
+.cart {
+ text-align: center;
+ margin-top: 64px;
+ padding: 14px;
+ border: 2px solid lightskyblue;
+ box-shadow: 4px 4px 8px gray;
+ line-height: 20px;
+ border-radius: 10px;
+}
+
+.cart h2 {
+ font-size: 24px;
+ color: #08b6fa;
+ font-weight: 500;
+}
+
+.cart-details h3{
+ color: #575555;
+ font-weight: 500;
+}

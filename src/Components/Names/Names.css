@@ -1,0 +1,21 @@
+.names {
+ color: #575555;
+ display: flex;
+ line-height: 10px;
+ border: 2px solid skyblue;
+ border-radius: 10px;
+ box-shadow: 2px 2px 4px lightgray;
+ margin:8px auto;
+ justify-content: center;
+ align-items: center;
+
+}
+.names-img img{
+ width: 28px;
+ height: 28px;
+ margin:4px;
+ border-radius: 10px;
+}
+.names h3{
+ font-weight: 500;
+}

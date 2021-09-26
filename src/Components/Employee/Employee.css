@@ -1,0 +1,39 @@
+.employee-card {
+ display: grid;
+ padding: 20px 10px;
+ justify-items: center;
+ align-items: center;
+ border: 1px solid lightskyblue;
+ box-shadow: 2px 2px 6px gray;
+ border-radius: 10px;
+}
+.employee{
+ height: 25%;
+ background: lightskyblue;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+}
+.employee-img img{
+ width: 134px;
+ height: 132px;
+ border: 4px solid #fff;
+ border-radius: 60px;
+}
+.primary-btn{
+ background: lightskyblue;
+ padding:8px 18px;
+ border: 1px solid lightskyblue;
+ box-shadow: 2px 2px 4px gray;
+ font-weight: 700;
+ text-transform: uppercase;
+}
+.employee-text{
+ line-height: 14px;
+ color: #575555;
+}
+.employee-text p{
+ font-weight: 600;
+}
+.star-icon{
+ color: darkorange;
+}
