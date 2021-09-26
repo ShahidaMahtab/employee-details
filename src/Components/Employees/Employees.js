@@ -10,8 +10,12 @@ const Employees = () => {
   .then(res=>res.json())
   .then(data=>setEmployees(data))
  },[])
- const handleAddToCart = employee =>{
-  const newCart = [...cart,employee];
+ const handleAddToCart = newEmployee =>{
+  const checkExists = cart.find(employee=>employee.id===newEmployee.id)
+  if(checkExists){
+    return
+  }
+  const newCart = [...cart,newEmployee];
   setCart(newCart);
  
  }
